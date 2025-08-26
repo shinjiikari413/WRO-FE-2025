@@ -1,4 +1,4 @@
-List of libraries to install
+### List of libraries to install
 ESP32Encoder by Kevin Harrington 0.11.6
 BQ25887 by SpaceTrek 0.1.2
 SX1509 IO Expander by Sparkfun Electronics 3.0.5
