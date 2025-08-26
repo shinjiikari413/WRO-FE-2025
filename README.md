@@ -36,7 +36,6 @@ This repository contains engineering materials of SSTEVE's self-driven vehicle m
   - Ensure that the board is set to ESP32S3
   - Ensure serial bot rate is 115200
   - Ensure all sensor values have been calibrated to the current environmental conditions
-  - Run!
 - Hardware
   - Wires have been connected properly
   - Components are working properly
