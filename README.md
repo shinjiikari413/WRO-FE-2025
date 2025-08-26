@@ -27,9 +27,9 @@ This repository contains engineering materials of SSTEVE's self-driven vehicle m
 ## Introduction
 
 ### Usage
-1.⁠ ⁠Install the libraries found in the src/lib/external_libraries by going to the library manager in the Arduino IDE and installing each of them through the Add .ZIP Library. ALL LIBRARIRES ARE REQUIRED FOR THE CODE TO RUN CORRECTLY. 
-2.⁠ ⁠Install src/Evo.zip and follow the following on the Arduino IDE: Sketch --> Include Library --> Add .ZIP Library --> Select EvoEditted.zip. 
-3.⁠ ⁠Open the desired file (i.e. mainopen.ino or mainobject.ino) with the Arduino IDE.
+1. Install the libraries found in the src/lib/external_libraries by going to the library manager in the Arduino IDE and installing each of them through the Add .ZIP Library. ALL LIBRARIRES ARE REQUIRED FOR THE CODE TO RUN CORRECTLY. 
+2. ⁠Install src/Evo.zip and follow the following on the Arduino IDE: Sketch --> Include Library --> Add .ZIP Library --> Select EvoEditted.zip.
+3. ⁠Open the desired file (i.e. mainopen.ino or mainobject.ino) with the Arduino IDE.
 
 ## Reminders Before Running Bot
 - Software
