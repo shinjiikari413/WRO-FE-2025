@@ -20,6 +20,9 @@ This repository contains engineering materials of SSTEVE's self-driven vehicle m
   * `Microcontroller System Diagram.png` contains a photo of our microcontroller system diagram
 * `src` contains code of control software for all components which were programmed to participate in the competition
 * `models` is for the files for models used by 3D printers, laser cutting machines and CNC machines to produce the vehicle elements. If there is nothing to add to this location, the directory can be removed.
+  * `EvoTOF Lego Mount.stl` contains a 3D model of a mount for our time of flight sensor
+  * `BNO055 Lego mount.stl` contains a 3D model of a mount for our gyro sensor
+  * `EVO brick.stl` contains a 3D model of a housing for our microcontroller system
 * `other` is for other files which can be used to understand how to prepare the vehicle for the competition. It may include documentation how to connect to a SBC/SBM and upload files there, datasets, hardware specifications, communication protocols descriptions etc. If there is nothing to add to this location, the directory can be removed.
 
 ## Introduction
