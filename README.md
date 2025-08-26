@@ -1,4 +1,4 @@
-SSTEVE
+# SSTEVE
 ====
 
 This repository contains engineering materials of SSTEVE's self-driven vehicle model participating in the WRO Future Engineers competition in the season 2025.
@@ -27,4 +27,24 @@ This repository contains engineering materials of SSTEVE's self-driven vehicle m
 
 ## Introduction
 
-_This part must be filled by participants with the technical clarifications about the code: which modules the code consists of, how they are related to the electromechanical components of the vehicle, and what is the process to build/compile/upload the code to the vehicle’s controllers. 
+### Usage
+1.⁠ ⁠Install the libraries found in the src/lib/edternal_libraries by going to the library manager in the Arduino IDE and installing each of them through the Add .ZIP Library. ALL LIBRARIRES ARE REQUIRED FOR THE CODE TO RUN CORRECTLY. 
+2.⁠ ⁠Install src/Evo.zip and follow the following on the Arduino IDE: Sketch --> Include Library --> Add .ZIP Library --> Select EvoEditted.zip. 
+3.⁠ ⁠Open the desired file (i.e. mainopen.ino or mainobject.ino) with the Arduino IDE.
+
+## Reminders Before Running Bot
+- Software
+  - Ensure that the board is set to ESP32S3
+  - Ensure serial bot rate is 115200
+  - Ensure all sensor values have been calibrated to the current environmental conditions
+  - Run!
+Hardware
+Wires have been connected properly
+Components are working properly
+Structural parts are connected properly
+Spaces on the wheels are correct
+Placement of the bot
+Make sure the bot is placed straight
+Magnetometer is strongly secured on the bot
+
+
