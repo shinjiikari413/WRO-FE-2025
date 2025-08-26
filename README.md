@@ -1,4 +1,4 @@
-Engineering materials
+SSTEVE
 ====
 
 This repository contains engineering materials of SSTEVE's self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2025.
