@@ -8,3 +8,9 @@ EspSoftwareSerial by Dirk Kaar, Peter Lerup 8.1.0
 Adafruit Unified Sensor by Adafruit 1.1.14
 MPU9250 by psychogenic 1.0.0
 Adafruit_TCS34725 by Adafruit 1.4.4
+Adafruit NeoPixel by Adafruit
+Adafruit PWM Servo Driver Library by Adafruit
+EspSoftwareSerial by Dirk Kaar, Peter Lerup
+ESP32Encoder by Kevin Harrington
+Adafruit VL53L0X by Adafruit
+Adafruit TCS34725 by Adafruit
